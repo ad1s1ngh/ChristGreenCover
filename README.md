@@ -48,9 +48,7 @@ ChristGreenCover/
 1. **Install the required libraries:**
    ```bash
    pip install -r requirements.txt
-   pip install matplotlib
    ```
-   *(Note: `matplotlib` is required for Pandas background gradient styling in the analytical tables.)*
 
 2. **Launch the Streamlit application:**
    ```bash
